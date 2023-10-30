@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Weapon xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Bow</Name>
+  <Damage>40</Damage>
+  <SpeedDamage>1.5</SpeedDamage>
+  <Price>150</Price>
+</Weapon>
